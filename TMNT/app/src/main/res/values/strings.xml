@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TMNT</string>
+    <string name="choose_turtle">Choose a turtle:</string>
+    <string-array name="turtles">
+        <item>Leonardo</item>
+        <item>Michelangelo</item>
+        <item>Donatello</item>
+        <item>Raphael</item>
+    </string-array>
+</resources>

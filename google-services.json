@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "983138142343",
+    "firebase_url": "https://footprint-rutgers.firebaseio.com",
+    "project_id": "footprint-rutgers",
+    "storage_bucket": "footprint-rutgers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983138142343:android:bc512569cfe2af92",
+        "android_client_info": {
+          "package_name": "com.rutgers.footprint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983138142343-t3miul9g4bm0v1imtoeg992cov06eame.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX__h5mRsReJnJ3Cvet5zQr4HpR3U4Ncw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rock_Papper_Scissors</string>
+    <string-array name="rpst">
+        <item>Rock</item>
+        <item>Paper</item>
+        <item>Scissors</item>
+    </string-array>
+
+</resources>
