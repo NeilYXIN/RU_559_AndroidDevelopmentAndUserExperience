@@ -1,6 +1,7 @@
 # RU_559_AndroidDevelopmentAndUserExperience
-Written in Java, 'Footprint' is the final project, which is a teamwork done by 3, others are completed alone.
-Projects are not fully completed and can have bugs due to limited time, may be fixed when I have time.
-Codes are for reference only.
-***Please do not use my Google API Key!!!
-***Replace by yours!!!
+This repository is maintained during my Android learning period.
+
+Written all in Java, the 'Footprint' is the final course project, which is a teamwork done by 3, implemented Google Maps and Google Places, others are completed alone.
+Projects are not fully completed and might have bugs due to limited time.
+For reference only.
+***Please replace the Google API Key before use.
