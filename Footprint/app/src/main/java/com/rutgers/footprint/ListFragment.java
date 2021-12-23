@@ -103,6 +103,8 @@ public class ListFragment extends Fragment  {
         getCurrentLocation();
 
 
+
+
         notesRef.whereGreaterThan("lon",lng - 0.5).whereLessThan("lon",lng + 0.5).get().addOnCompleteListener(new OnCompleteListener<QuerySnapshot>() {
             @Override
             public void onComplete(@NonNull Task<QuerySnapshot> task) {

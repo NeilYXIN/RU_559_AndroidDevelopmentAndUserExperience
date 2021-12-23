@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.idea/modules.xml
+.idea/modules.xml
+.idea/modules.xml
+app/src/main/java/com/rutgers/footprint/MarkerListActivity.java
+.idea/modules.xml

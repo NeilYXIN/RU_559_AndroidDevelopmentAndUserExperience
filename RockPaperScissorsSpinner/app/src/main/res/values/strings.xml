@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RockPaperScissorsSpinner</string>
+    <string name="choose_rps">Choose rock, paper, or scissors</string>
+    <string-array name="choose_values">
+        <item>Rock</item>
+        <item>Paper</item>
+        <item>Scissors</item>
+    </string-array>
+</resources>
